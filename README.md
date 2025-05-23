@@ -18,4 +18,6 @@ ____
 
 ### Для пользователей
 
-1. Перейдите [NoteBot](@newTeleBotick_bot)
+1. Перейдите в [NoteBot](https://t.me/newTeleBotick_bot).
+
+2. Используйте комманду `/start`
