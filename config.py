@@ -1,1 +1,0 @@
-tg_TOKEN = "7270273826:AAEjbqimdXtgghyOCEX7u11DvtZAchGeCuM"
