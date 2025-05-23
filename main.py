@@ -9,7 +9,6 @@ TOKEN = tg_TOKEN
 bot = telebot.TeleBot(TOKEN)
 
 
-
 with open('DataBase.json', encoding='utf8') as file:
     try:
         data_base = json.loads(file.read())
